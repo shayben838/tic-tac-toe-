@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/http//shayben838.github.io/tic-tac-toe-/static/css/main.8ad8f89f.css",
+    "main.js": "/http//shayben838.github.io/tic-tac-toe-/static/js/main.09050b41.js",
+    "static/js/787.4bc435fe.chunk.js": "/http//shayben838.github.io/tic-tac-toe-/static/js/787.4bc435fe.chunk.js",
+    "static/media/bg-pattern-dark.png": "/http//shayben838.github.io/tic-tac-toe-/static/media/bg-pattern-dark.f2c6e30a2a887881a35c.png",
+    "index.html": "/http//shayben838.github.io/tic-tac-toe-/index.html",
+    "main.8ad8f89f.css.map": "/http//shayben838.github.io/tic-tac-toe-/static/css/main.8ad8f89f.css.map",
+    "main.09050b41.js.map": "/http//shayben838.github.io/tic-tac-toe-/static/js/main.09050b41.js.map",
+    "787.4bc435fe.chunk.js.map": "/http//shayben838.github.io/tic-tac-toe-/static/js/787.4bc435fe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8ad8f89f.css",
+    "static/js/main.09050b41.js"
+  ]
+}
